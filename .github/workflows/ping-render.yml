@@ -1,5 +1,5 @@
 # .github/workflows/ping-render.yml
-name: Keep Render Awake
+name: Keep Render Awake 1
 
 # 1.  Runs every 10 minutes, on the :00, :10, :20 … marks (UTC‑based).
 # 2.  Can also be triggered manually from the Actions tab.
