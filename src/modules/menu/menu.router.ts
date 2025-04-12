@@ -5,7 +5,7 @@ import { z } from 'zod';
 import { 
   RootMenu,
 } from './menu.schema';
-import { LoggerMiddleware } from 'src/trpc/middleware/logger.middleware';
+import { LoggerMiddleware } from '../../trpc/middleware/logger.middleware';
 
 @Router()
 @UseMiddlewares(LoggerMiddleware)

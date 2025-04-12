@@ -11,7 +11,7 @@ import {
   RedemptionTransaction,
   CreateRewardInput,
 } from './reward.schema';
-import { LoggerMiddleware } from 'src/trpc/middleware/logger.middleware';
+import { LoggerMiddleware } from '../../trpc/middleware/logger.middleware';
 
 @Injectable()
 @Router()
