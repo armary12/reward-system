@@ -1,0 +1,98 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                  String                @id @default(uuid())
+  email               String                @unique
+  name                String
+  points              Int                   @default(0)
+  createdAt           DateTime              @default(now()) @map("created_at")
+  updatedAt           DateTime              @updatedAt @map("updated_at")
+  pointTransactions   PointTransaction[]
+  shortCodes          ShortCode[]
+  redemptions         RedemptionTransaction[]
+
+  @@map("users")
+}
+
+model MenuItem {
+  id          String   @id @default(uuid())
+  name        String
+  description String?
+  price       Float
+  category    String
+  imageUrl    String?  @map("image_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("menu_items")
+}
+
+model PointTransaction {
+  id          String   @id @default(uuid())
+  userId      String   @map("user_id")
+  user        User     @relation(fields: [userId], references: [id])
+  points      Int
+  description String?
+  createdAt   DateTime @default(now()) @map("created_at")
+  
+  @@index([userId])
+  @@map("point_transactions")
+}
+
+model ShortCode {
+  id        String   @id @default(uuid())
+  code      String   @unique
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  rewardId  String?
+  reward    RedeemableReward?  @relation(fields: [rewardId], references: [id])
+  isUsed    Boolean  @default(false)
+  usedAt    DateTime?
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([userId])
+  @@index([rewardId])
+  @@map("short_codes")
+}
+
+model RedeemableReward {
+  id              String                @id @default(uuid())
+  name            String
+  description     String?
+  pointsCost      Int                   @map("points_cost")
+  imageUrl        String?               @map("image_url")
+  isActive        Boolean               @default(true) @map("is_active")
+  createdAt       DateTime              @default(now()) @map("created_at")
+  updatedAt       DateTime              @updatedAt @map("updated_at")
+  redemptions     RedemptionTransaction[]
+  shortCodes      ShortCode[]
+
+  @@map("redeemable_rewards")
+}
+
+model RedemptionTransaction {
+  id              String            @id @default(uuid())
+  userId          String            @map("user_id")
+  user            User              @relation(fields: [userId], references: [id])
+  rewardId        String            @map("reward_id")
+  reward          RedeemableReward  @relation(fields: [rewardId], references: [id])
+  pointsSpent     Int               @map("points_spent")
+  status          String            @default("completed") // completed, cancelled, pending
+  createdAt       DateTime          @default(now()) @map("created_at")
+  
+  @@index([userId])
+  @@index([rewardId])
+  @@map("redemption_transactions")
+} 

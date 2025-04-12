@@ -1,0 +1,545 @@
+{
+  "name": "Paii menu",
+  "menuGroups": [
+    {
+      "name": "Starters",
+      "menuGroups": [
+        {
+          "name": "Northern Thai Platter",
+          "menuItems": [
+            {
+              "guid": "ea0a8ddc-1996-4cd1-bc9b-c9aaabff38dc",
+              "name": "Northern Thai Platter (Dine-In Only)",
+              "description": "A shareable platter of our favourite Northern Thai appetizers including Grabong 'Squash Fritters', Moo Ping 'Pork Skewers', Laab Salad and Sai Ua 'Northern Thai Sausage'.",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-q5snt6xvn5w7pixjni1jtbpjsxeu/fit=contain,width=1040",
+              "price": 65.0,
+              "currency": "CAD",
+              "availability": "MON-FRI 4 PM-CLOSE, SAT-SUN OPEN-CLOSE",
+              "note": null
+            }
+          ]
+        },
+        {
+          "name": "Starters",
+          "menuItems": [
+            {
+              "guid": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+              "name": "Spring Rolls",
+              "description": "Three deep-fried vegetarian wheat paper wraps filled with mushrooms, glass noodles, carrots, and bean sprouts. Served with a sweet Thai chilli sauce. (Contains gluten, mushroom)",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-b5pykjlbritl99x05rjohxq66nif/fit=contain,width=1040",
+              "price": 14.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+              "name": "Thai Chicken Wings",
+              "description": "Fried chicken wings topped with crispy shallots, makrut lime leaves, and crispy chillies. Served with a sweet tamarind sauce. (Contains gluten, oyster sauce)",
+              "image": null,
+              "price": 13.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+              "name": "Shrimp Chips",
+              "description": "Crispy shrimp chips. Served with a house-made tangy tamarind dip. (Contains fish sauce, oyster sauce, shrimp) [Gluten-free]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-1plefjx2g1v3vwf5xfls61o5dfrj/fit=contain,width=1040",
+              "price": 9.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7a8b",
+              "name": "Starter Tom Yum Soup",
+              "description": "A starter size of our savoury, spicy, sour soup with lemongrass, long leaf coriander, shallots, mushrooms, tomatoes, and green onions. Served with your choice of Shrimp or Tofu & Veggies (VEGAN). (Contains dairy, fish sauce, gluten, shrimp) *Dairy-free, gluten-free or vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-8sztfzw2v3l8hsf81zm98v7ols1o/fit=contain,width=1040",
+              "price": 10.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7a8b9c",
+              "name": "Garlic Chicken",
+              "description": "Deep-fried chicken bites. Served with a sweet & spicy Thai chilli sauce. (Contains gluten, oyster sauce)",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-clq7cni7csm8paookkfp4ycjmept/fit=contain,width=1040",
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "a6b7c8d9-e0f1-4a2b-3c4d-5e6f7a8b9c0d",
+              "name": "Garlic Tofu",
+              "description": "Deep-fried tofu bites. Served with a sweet & spicy Thai chilli sauce. (Contains gluten, mushroom)",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-q4c0ezbr02e5ok6pcmtwymnptabc/fit=contain,width=1040",
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "b7c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d1e",
+              "name": "Kung Tawt 'Garlic Shrimp'",
+              "description": "Deep-fried shrimp. Served with a sweet & spicy Thai chilli sauce. (Contains gluten, oyster sauce, shrimp)",
+              "image": null,
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "c8d9e0f1-a2b3-4c4d-5e6f-7a8b9c0d1e2f",
+              "name": "Grabong 'Squash Fritters' (Dine-in Only)",
+              "description": "Deep-fried squash fritters. Served with a sweet & spicy Thai chilli sauce. (Contains gluten, mushroom) [Gluten-free available upon request]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-h1a2d4hbhqzyujcpi4gphue0tpfx/fit=contain,width=1040",
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": "Dine-in Only",
+              "note": null
+            },
+            {
+              "guid": "d9e0f1a2-b3c4-4d5e-6f7a-8b9c0d1e2f3a",
+              "name": "Pad Pak Reum 'Vegetable Stir-Fry'",
+              "description": "Stir-fried vegetables with garlic, oyster sauce, and soy sauce. (Contains gluten, mushroom, oyster sauce, soy) [Gluten-free, vegan available upon request]",
+              "image": null,
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "e0f1a2b3-c4d5-4e6f-7a8b-9c0d1e2f3a4b",
+              "name": "Sai Ua 'Northern Thai Sausage'",
+              "description": "Northern Thai sausage with pork, lemongrass, kaffir lime leaves, and red curry paste. Served with a sweet & spicy Thai chilli sauce. (Contains gluten, oyster sauce) [Gluten-free available upon request]",
+              "image": null,
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": "MON-FRI 4 PM-CLOSE, SAT-SUN OPEN-CLOSE",
+              "note": null
+            },
+            {
+              "guid": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+              "name": "Gai Satay 'Chicken Skewers'",
+              "description": "Grilled chicken skewers. Served with a peanut sauce and cucumber relish. (Contains gluten, peanut) [Gluten-free, peanut-free available upon request]",
+              "image": null,
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": "MON-FRI 4 PM-CLOSE, SAT-SUN OPEN-CLOSE",
+              "note": null
+            },
+            {
+              "guid": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+              "name": "Moo Ping 'Pork Skewers'",
+              "description": "Grilled pork skewers. Served with a sweet & spicy Thai chilli sauce. (Contains gluten, oyster sauce) [Gluten-free available upon request]",
+              "image": null,
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": "MON-FRI 4 PM-CLOSE, SAT-SUN OPEN-CLOSE",
+              "note": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salads",
+      "menuGroups": [
+        {
+          "name": "Salads",
+          "menuItems": [
+            {
+              "guid": "b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+              "name": "Mango Slaw",
+              "description": "Chopped sweet mango with baby green mango from Thailand, carrot, red cabbage, pickled red onion, sawtooth coriander, Thai garlic, coconut sugar, fish sauce, tamarind paste, lime juice, chilli flakes, and roasted peanuts. (Contains peanut, fish sauce) [Gluten-free] *Peanut-free, vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-d5usb18d492gad3i9kuhcv8si92o/fit=contain,width=1040",
+              "price": 19.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+              "name": "Som Tum Tad 'Papaya Salad'",
+              "description": "Shredded green papaya with tomato, long green beans, garlic, red chili, tamarind juice, long leaf coriander, coconut sugar and freshly squeezed lime. Served with rice noodles, pork rinds and shrimp chips. Your choice of Dried Shrimp or Vegan. Pick your spice level between No Spice, Mild, Medium, Farang Spicy, or Thai Spicy. (Contains fish sauce, shrimp) [Gluten-free] *Vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-id8fk8tnpkqyhzgfuvbehebwkaqm/fit=contain,width=1040",
+              "price": 20.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+              "name": "Miang Kung 'Wild Betel Leaf Wraps' (Dine-In Only)",
+              "description": "A shareable platter of bright flavours that you combine and wrap in a fresh betel leaf yourself. Ingredients include chilled baby black tiger shrimp, ginger, solo garlic, shallots, lime, chilli, roasted coconut, ground dried shrimp, pomello, roasted peanuts, coconut sugar, tamarind sauce. (Contains fish sauce, peanuts, shrimp paste) [Gluten-free] *Peanut-free, vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-sjxah4mh1gs9v609yyb6f2d61czt/fit=contain,width=1040",
+              "price": 21.0,
+              "currency": "CAD",
+              "availability": "MON-FRI 4 PM-CLOSE, SAT-SUN OPEN-CLOSE",
+              "note": null
+            },
+            {
+              "guid": "e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+              "name": "Laab Salad",
+              "description": "A house-made Northern Thai Laab paste with peppercorn, garlic, shallots, galangal, lemongrass, dried chillies, pork rinds and fennel. Served with cucumber, long green beans, lettuce leaves and sticky rice. Your choice of Pork, Chicken, Beef or OmniPork (VEGAN). (Contains shrimp paste) [Gluten-free] *Vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-pab7gpualfpsyeuoaz15893tfmy8/fit=contain,width=1040",
+              "price": 22.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+              "name": "Yum Kanom Jeen 'Rice Noodle Salad'",
+              "description": "Vermicelli rice noodles with tofu, yard long beans, green onion, sawtooth coriander, micro-coriander, garlic oil, crispy shallots and crispy Thai garlic. Served with dried chilli flakes, lime. (Contains mushroom, soy) [Gluten-free, Vegan]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-5104nayu7slloqtymsrvbawvzsgo/fit=contain,width=1040",
+              "price": 14.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "a8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+              "name": "Plah Nua 'Beef Salad'",
+              "description": "Grilled beef sirloin cooked to medium-rare with shallots, lemongrass long leaf coriander, mint, on chopped lettuce and shredded cabbage with a tangy lime sauce. (Contains oyster sauce) [Gluten-free]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-hr4ac7i39amnhu5yblskzoczwudu/fit=contain,width=1040",
+              "price": 22.0,
+              "currency": "CAD",
+              "availability": "MON-FRI 4 PM-CLOSE, SAT-SUN OPEN-CLOSE",
+              "note": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mains",
+      "menuGroups": [
+        {
+          "name": "Chef Nuit's Favourites",
+          "menuItems": [
+            {
+              "guid": "b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+              "name": "Chef Nuit's Pad Thai",
+              "description": "Red-flame stir-fried rice noodles in a house-made tamarind-palm sugar sauce with beansprouts, tofu, egg, and chives. Served with shredded cabbage, fresh lime, and house-roasted peanuts. Your choice of Chicken, Beef, Shrimp, or Tofu & Veggies. Pick your spice level between No Spice, Mild, Medium, Farang Spicy, or Thai Spicy. (Contains egg, gluten, mushroom, oyster sauce, peanut, soy) *Gluten-free, peanut-free, vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-n30cbw45bf13onobarm83fxn299d/fit=contain,width=1040",
+              "price": 23.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            }
+          ]
+        },
+        {
+          "name": "Other Mains",
+          "menuItems": [
+            {
+              "guid": "c0d1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+              "name": "Pad Gra Prow",
+              "description": "Holy basil stir-fried with your choice of protein, red bell pepper, and onion on steamed jasmine rice and topped with a Thai-style fried egg. Served with nam prik nam pla sauce (fish sauce, garlic, chilli & lime). Your choice of Ground Pork, Ground Pork with Moo Grob 'Crispy Pork', Ground Chicken, Ground Beef, Shrimp, Tofu or OmniPork (VEGAN). Pick your spice level between No Spice, Mild, Medium, Farang Spicy, or Thai Spicy. (Contains egg, gluten, oyster sauce, soy) *Gluten-free or vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-yfdbb129n54kkrbn60lh7ftybyow/fit=contain,width=1040",
+              "price": 24.75,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+              "name": "Pad See Ew",
+              "description": "Stir-fried hand-cut rice noodles with sweet soy sauce, Chinese broccoli and egg, topped with diced red bell peppers. Served with lime and dried chilli flakes. Your choice of Beef, Chicken, Shrimp, or Tofu & Veggies (Contains gluten, egg, oyster sauce, soy) *Gluten-free or vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-q55swr4t6bamt4gsgw75dynfi32r/fit=contain,width=1040",
+              "price": 24.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "e2f3a4b5-c6d7-4e8f-9a0b-1c2d3e4f5a6b",
+              "name": "Pad Phet Chicken",
+              "description": "Chicken and seafood mushroom stir-fry with a house-made red chilli paste, snow peas, long green beans, bamboo shoots, Thai basil leaves, wild ginger, and peppercorn, and served on steamed jasmine rice. (Contains gluten, mushroom, sesame)",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-hg8tvnok47k7y5w1atnllfk3r9f1/fit=contain,width=1040",
+              "price": 21.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "f3a4b5c6-d7e8-4f9a-0b1c-2d3e4f5a6b7c",
+              "name": "Pad Cha Hett",
+              "description": "Seafood mushrooms stir-fried with a house-made red chilli paste, snow peas, bamboo shoots, Thai basil, wild ginger, and peppercorn, and served on a bed of Thai riceberry. (Contains gluten, mushroom, sesame) [Vegan]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-ocq7z6fx0q3y5uxsdluszqk0byjv/fit=contain,width=1040",
+              "price": 21.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            }
+          ]
+        },
+        {
+          "name": "Curries",
+          "menuItems": [
+            {
+              "guid": "a4b5c6d7-e8f9-4a0b-1c2d-3e4f5a6b7c8d",
+              "name": "Gaeng Kiaw Wan 'Green Curry'",
+              "description": "Green curry with chayote, kabocha squash, makrut lime leaves, Thai basil, and coconut milk. Topped with Thai basil and red bell pepper sliver. Served with steamed jasmine rice. Medium spice level; cannot be adjusted. Your choice of Chicken, Beef, Shrimp, Fish, or Tofu & Veggies. Served in a coconut for dine-in only Mon-Fri 4 PM-CLOSE, Sat-SUN OPEN-CLOSE. (Contains shrimp paste) [Gluten-free] *Vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-sqbbtpymxqkkk4mao2fvv0x55lf1/fit=contain,width=1040",
+              "price": 25.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "b5c6d7e8-f9a0-4b1c-2d3e-4f5a6b7c8d9e",
+              "name": "Gaeng Massaman 'Massaman Curry'",
+              "description": "Tamarind curry with potatoes and pearl white onions. Topped with peanuts, and deep-fried crispy shallots. Served with steamed jasmine rice. Mild spice level; cannot be adjusted. Your choice of Beef, Chicken, Shrimp, or Tofu & Veggies. (Contains peanuts, shrimp paste) [Gluten-free] *Peanut-free, vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-ubbs7ldq7imjf1cpimkm3z0djr13/fit=contain,width=1040",
+              "price": 22.75,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "c6d7e8f9-a0b1-4c2d-3e4f-5a6b7c8d9e0f",
+              "name": "Gaeng Panang 'Panang Curry'",
+              "description": "Thick red curry with makrut lime leaves, Thai basil and red bell peppers. Topped with coconut cream. Served with jasmine rice. Mild spice level; cannot be adjusted. Your choice of Chicken, Beef, Shrimp, or Tofu & Veggies (seafood mushrooms and snow peas). (Contains shrimp paste) [Gluten-free] *Vegan available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-z8hrbltpxflnid4uk405b1ua4qfo/fit=contain,width=1040",
+              "price": 21.75,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d7e8f9a0-b1c2-4d3e-4f5a-6b7c8d9e0f1a",
+              "name": "Gaeng Hunglay 'Hunglay Oxtail Curry'",
+              "description": "Sweet and sour garlic-ginger curry with braised oxtail. Served with steamed jasmine rice. Mild spice level; cannot be adjusted. (Contains soy) [Gluten-free]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-ubbs7ldq7imjf1cpimkm3z0djr13/fit=contain,width=1040",
+              "price": 25.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            }
+          ]
+        },
+        {
+          "name": "Soups",
+          "menuItems": [
+            {
+              "guid": "e8f9a0b1-c2d3-4e4f-5a6b-7c8d9e0f1a2b",
+              "name": "Entree Tom Yum Mor Fai Soup",
+              "description": "Hot and sour soup with mushrooms, tomatoes, onions, and Thai aromatics. Your choice of Shrimp or Tofu & Veggies.",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-xkq0n89e02brls4fy1qa987erq58/fit=contain,width=1040",
+              "price": 23.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "f9a0b1c2-d3e4-4f5a-6b7c-8d9e0f1a2b3c",
+              "name": "Chiang Mai Beef Noodle Soup",
+              "description": "Rice noodles with braised beef in a bold peanut, tamarind and lime broth with beansprouts, long leaf coriander, green onions, home roasted peanuts. Topped with coriander and crispy wontons. (Contains fish sauce, gluten, peanuts) *Gluten-free available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-zboejgye0xcw5lk55d39cr8t5voi/fit=contain,width=1040",
+              "price": 23.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sides",
+      "menuGroups": [
+        {
+          "name": "Sides",
+          "menuItems": [
+            {
+              "guid": "a0b1c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d",
+              "name": "Steamed Jasmine Rice",
+              "description": "",
+              "image": null,
+              "price": 4.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+              "name": "Side Steamed Veggies",
+              "description": "A side of steamed broccoli, cauliflower and carrots.",
+              "image": null,
+              "price": 3.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "menuGroups": [
+        {
+          "name": "Desserts",
+          "menuItems": [
+            {
+              "guid": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+              "name": "Mango Sticky Rice",
+              "description": "Sweet coconut sticky rice topped with freshly cut mango and coconut cream. [Gluten-free, vegan]",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-m9c939c1b27ibbmzr2csz990iqzv/fit=contain,width=1040",
+              "price": 15.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+              "name": "Coconut Sorbet",
+              "description": "Served in a fresh young coconut with chunks of sweet mango, roasted coconut flakes, and roasted peanuts. Good to share between 2 or more people. [Gluten-free, vegan] *Contains peanuts. Peanut-free available upon request*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-c5y95497mo2zrwwmuw91m4in6tg8/fit=contain,width=1040",
+              "price": 19.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": "Dine-In only"
+            },
+            {
+              "guid": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7a8b",
+              "name": "Thai Iced Tea Gelato",
+              "description": "Served in a fresh young coconut with chunks of sweet mango, roasted coconut flakes, and roasted peanuts. Good to share between 2 or more people. *Contains dairy, gluten, nuts, wheat*",
+              "image": "https://imagedelivery.net/aPDHOWLzkdlEAMvg3YLQug/production-pllujtdi32goamf8wmid0jrxt8qw/fit=contain,width=1040",
+              "price": 19.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": "Dine-In only"
+            },
+            {
+              "guid": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7a8b9c",
+              "name": "Cake Fee",
+              "description": "You are welcome to bring in a cake or small dessert to enjoy after your meal. Please note, we charge a fee per person in your party.",
+              "image": null,
+              "price": 2.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": "Per Person"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "menuGroups": [
+        {
+          "name": "Drinks",
+          "menuItems": [
+            {
+              "guid": "a6b7c8d9-e0f1-4a2b-3c4d-5e6f7a8b9c0d",
+              "name": "Thai Iced Tea",
+              "description": "Contains dairy",
+              "image": null,
+              "price": 6.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "b7c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d1e",
+              "name": "Pineapple Shake",
+              "description": "Fresh pineapple blended with ice",
+              "image": null,
+              "price": 6.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "c8d9e0f1-a2b3-4c4d-5e6f-7a8b9c0d1e2f",
+              "name": "Juice",
+              "description": "Mango, Guava, Lychee, Pineapple, Pomegranate",
+              "image": null,
+              "price": 5.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d9e0f1a2-b3c4-4d5e-6f7a-8b9c0d1e2f3a",
+              "name": "Ginger Beer",
+              "description": "Non-alcoholic ginger beer",
+              "image": null,
+              "price": 5.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "e0f1a2b3-c4d5-4e6f-7a8b-9c0d1e2f3a4b",
+              "name": "Fresh Coconut Water",
+              "description": "Fresh coconut water served in coconut shell",
+              "image": null,
+              "price": 7.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+              "name": "Bottled Sparkling Water",
+              "description": "San Pellegrino or Perrier",
+              "image": null,
+              "price": 4.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+              "name": "Bottled Water",
+              "description": "Still or sparkling",
+              "image": null,
+              "price": 4.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+              "name": "Pop",
+              "description": "Coke, Coke Zero, Ginger Ale, Sprite",
+              "image": null,
+              "price": 3.5,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+              "name": "Pot of Tea",
+              "description": "Green tea",
+              "image": null,
+              "price": 4.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            },
+            {
+              "guid": "d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+              "name": "Red Bull",
+              "description": "Energy drink",
+              "image": null,
+              "price": 5.0,
+              "currency": "CAD",
+              "availability": null,
+              "note": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
