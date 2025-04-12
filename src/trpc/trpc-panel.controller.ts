@@ -17,8 +17,11 @@ export class TrpcPanelController implements OnModuleInit {
 
   @All('/panel')
   panel() {
+    // Use environment variable for the URL, fallback to localhost for development
+    const apiUrl = process.env.API_URL || 'http://localhost:3000/trpc';
+    
     return renderTrpcPanel(this.appRouter, {
-      url: 'http://localhost:3000/trpc',
+      url: apiUrl,
     });
   }
 }
