@@ -1,0 +1,817 @@
+{
+  "extracted_date": "2025-06-30T12:33:47.686Z",
+  "total_items": 208,
+  "summary": {
+    "meat_dry_items": 77,
+    "parliament_items": 29,
+    "produce_items": 62,
+    "bmbvt_items": 41,
+    "duplicates_removed": 1
+  },
+  "categories": [
+    {
+      "category_name": "MEAT & DRY",
+      "item_count": 77,
+      "items": [
+        {
+          "item_name": "Pad thai",
+          "price": 2.85
+        },
+        {
+          "item_name": "Fried rice",
+          "price": 2.85
+        },
+        {
+          "item_name": "Masaman",
+          "price": 2.95
+        },
+        {
+          "item_name": "Panang",
+          "price": 3.35
+        },
+        {
+          "item_name": "Pad gra prow",
+          "price": 3.2
+        },
+        {
+          "item_name": "Green curry",
+          "price": 3.3
+        },
+        {
+          "item_name": "Khao soi",
+          "price": 3.3
+        },
+        {
+          "item_name": "Chicken wings",
+          "price": 28.5
+        },
+        {
+          "item_name": "Chicken Drumlet",
+          "price": 19
+        },
+        {
+          "item_name": "Eggs",
+          "price": 55
+        },
+        {
+          "item_name": "Eggs",
+          "price": 45.99
+        },
+        {
+          "item_name": "Pad thai",
+          "price": 3.25
+        },
+        {
+          "item_name": "Pad gra prow",
+          "price": 3.25
+        },
+        {
+          "item_name": "Khao soi",
+          "price": 4
+        },
+        {
+          "item_name": "Pad gra prow",
+          "price": 3.15
+        },
+        {
+          "item_name": "Frozen Shrimp",
+          "price": 9.95
+        },
+        {
+          "item_name": "Garlic shrimp",
+          "price": 10.5
+        },
+        {
+          "item_name": "Garlic shrimp",
+          "price": 1.75
+        },
+        {
+          "item_name": "Garlic chicken",
+          "price": 5.25
+        },
+        {
+          "item_name": "Grill chicken",
+          "price": 8
+        },
+        {
+          "item_name": "Garlic tofu",
+          "price": 2.55
+        },
+        {
+          "item_name": "Omni pork",
+          "price": 72
+        },
+        {
+          "item_name": "Omni pork",
+          "price": 15
+        },
+        {
+          "item_name": "Omni pork",
+          "price": 3.75
+        },
+        {
+          "item_name": "Pork rib",
+          "price": 4.99
+        },
+        {
+          "item_name": "Braised beef seasoning",
+          "price": 8.25
+        },
+        {
+          "item_name": "Grabong sauce",
+          "price": 8
+        },
+        {
+          "item_name": "Green curry for Chicken marinate",
+          "price": 17.5
+        },
+        {
+          "item_name": "Khao soi chicken paste",
+          "price": 20.25
+        },
+        {
+          "item_name": "Spring roll sauce",
+          "price": 9
+        },
+        {
+          "item_name": "Others",
+          "price": null
+        },
+        {
+          "item_name": "Apple cider vinegar",
+          "price": 35
+        },
+        {
+          "item_name": "Berry Rice",
+          "price": 12
+        },
+        {
+          "item_name": "Breadcrumbs",
+          "price": 9.24
+        },
+        {
+          "item_name": "Carnation Evaporated milk",
+          "price": 1.99
+        },
+        {
+          "item_name": "Chilli oil with crush cihll",
+          "price": 8
+        },
+        {
+          "item_name": "Coconut Pandan Gelato",
+          "price": 55
+        },
+        {
+          "item_name": "Egg noodles uncooked",
+          "price": 10
+        },
+        {
+          "item_name": "Peanut ground/crushed",
+          "price": 9
+        },
+        {
+          "item_name": "Peanut whole",
+          "price": 9
+        },
+        {
+          "item_name": "Shrimp Chips",
+          "price": 2
+        },
+        {
+          "item_name": "Tempura Powder",
+          "price": 2.25
+        },
+        {
+          "item_name": "Thai Iced Tea",
+          "price": 3.25
+        },
+        {
+          "item_name": "Thai Iced Tea Gelato",
+          "price": 75
+        },
+        {
+          "item_name": "Allen's white vinegar",
+          "price": 19.5
+        },
+        {
+          "item_name": "Bamboo brush",
+          "price": 4.24
+        },
+        {
+          "item_name": "XL Gloves",
+          "price": 17.5
+        },
+        {
+          "item_name": "L Gloves",
+          "price": 14.99
+        },
+        {
+          "item_name": "M Gloves",
+          "price": 14.99
+        },
+        {
+          "item_name": "S Gloves",
+          "price": 14.99
+        },
+        {
+          "item_name": "Kitchen scissors",
+          "price": 3.39
+        },
+        {
+          "item_name": "Paper kraft roll",
+          "price": 2.25
+        },
+        {
+          "item_name": "Parchment peach",
+          "price": 23.5
+        },
+        {
+          "item_name": "Sponge yellow and green",
+          "price": 1
+        },
+        {
+          "item_name": "Chopsticks",
+          "price": 3.25
+        },
+        {
+          "item_name": "Napkin To Go",
+          "price": 2.17
+        },
+        {
+          "item_name": "Black Marker",
+          "price": 2.25
+        },
+        {
+          "item_name": "Clear tape",
+          "price": 1.75
+        },
+        {
+          "item_name": "Green tape",
+          "price": 2.25
+        },
+        {
+          "item_name": "Band aids",
+          "price": 1.5
+        },
+        {
+          "item_name": "1 oz container",
+          "price": 0.78
+        },
+        {
+          "item_name": "1 oz lid",
+          "price": 0.64
+        },
+        {
+          "item_name": "#8 kraft box",
+          "price": 7.12
+        },
+        {
+          "item_name": "Brown paper Bag with handle",
+          "price": 0.24
+        },
+        {
+          "item_name": "Pai Wok for frying egg",
+          "price": 23
+        },
+        {
+          "item_name": "Thermal Printer Paper",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "category_name": "PARLIAMENT",
+      "item_count": 29,
+      "items": [
+        {
+          "item_name": "Khao soi paste",
+          "price": 10.13
+        },
+        {
+          "item_name": "Masaman paste",
+          "price": 9.25
+        },
+        {
+          "item_name": "Pad thai regular NGF",
+          "price": 2.6
+        },
+        {
+          "item_name": "Pad thai gluten free",
+          "price": 2.6
+        },
+        {
+          "item_name": "Pad thai vegan NGF",
+          "price": 2.5
+        },
+        {
+          "item_name": "Pad thai vegan gluten free",
+          "price": 2.5
+        },
+        {
+          "item_name": "Tamarind sauce",
+          "price": 12
+        },
+        {
+          "item_name": "Tom yum paste",
+          "price": 10
+        },
+        {
+          "item_name": "Green curry regular",
+          "price": 25.5
+        },
+        {
+          "item_name": "Green curry vegan",
+          "price": 22.5
+        },
+        {
+          "item_name": "Khao soi vegan",
+          "price": 18.75
+        },
+        {
+          "item_name": "Massaman vegan",
+          "price": 22.5
+        },
+        {
+          "item_name": "Pad gra pao regular",
+          "price": 80
+        },
+        {
+          "item_name": "Pad gra pao gluten free",
+          "price": 80
+        },
+        {
+          "item_name": "Pad gra pao vegan",
+          "price": 32
+        },
+        {
+          "item_name": "Pad see ew regular",
+          "price": 80
+        },
+        {
+          "item_name": "Pad see ew gluten free",
+          "price": 80
+        },
+        {
+          "item_name": "Pad see ew vegan",
+          "price": 32
+        },
+        {
+          "item_name": "Panang regular",
+          "price": 18.75
+        },
+        {
+          "item_name": "Panang vegan",
+          "price": 18.75
+        },
+        {
+          "item_name": "Priknampla",
+          "price": 5
+        },
+        {
+          "item_name": "Stir Fried rice regular",
+          "price": 80
+        },
+        {
+          "item_name": "Stir Fried rice gluten free",
+          "price": 80
+        },
+        {
+          "item_name": "Stir Fried rice vegan",
+          "price": 32
+        },
+        {
+          "item_name": "Mango slaw dressing regular",
+          "price": 2.4
+        },
+        {
+          "item_name": "Mango slaw dressing vegan",
+          "price": 2.4
+        },
+        {
+          "item_name": "Pad Chahett",
+          "price": 5
+        },
+        {
+          "item_name": "Shrimp Chip Sauce",
+          "price": 3.25
+        },
+        {
+          "item_name": "Chilli oil (For Khaoi soi)",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "category_name": "PRODUCE",
+      "item_count": 62,
+      "items": [
+        {
+          "item_name": "Beansprout",
+          "price": null
+        },
+        {
+          "item_name": "Broccoli (5lb/order)",
+          "price": null
+        },
+        {
+          "item_name": "Cabbage whole (1.5lb/pc)",
+          "price": null
+        },
+        {
+          "item_name": "Carrot whole (5lb/order)",
+          "price": null
+        },
+        {
+          "item_name": "Cauliflower",
+          "price": null
+        },
+        {
+          "item_name": "Chive 1lb/bunch (3bunch/1000g)",
+          "price": null
+        },
+        {
+          "item_name": "Cipollini whole",
+          "price": null
+        },
+        {
+          "item_name": "Cucumber",
+          "price": null
+        },
+        {
+          "item_name": "Garlic whole",
+          "price": null
+        },
+        {
+          "item_name": "Ginger whole",
+          "price": null
+        },
+        {
+          "item_name": "Green onion",
+          "price": null
+        },
+        {
+          "item_name": "Green chili whole",
+          "price": null
+        },
+        {
+          "item_name": "Green leaf",
+          "price": null
+        },
+        {
+          "item_name": "Long leaf whole",
+          "price": null
+        },
+        {
+          "item_name": "Lemongrass whole",
+          "price": null
+        },
+        {
+          "item_name": "Lime whole",
+          "price": null
+        },
+        {
+          "item_name": "Lime leaf whole",
+          "price": null
+        },
+        {
+          "item_name": "Long green bean for ( Omni p)",
+          "price": null
+        },
+        {
+          "item_name": "Pickled mustard 2pack/24oz",
+          "price": null
+        },
+        {
+          "item_name": "Pickled radish/turnip",
+          "price": null
+        },
+        {
+          "item_name": "Potato 2250g",
+          "price": null
+        },
+        {
+          "item_name": "Red bell pepper whole 11lb/box",
+          "price": null
+        },
+        {
+          "item_name": "Red chili whole",
+          "price": null
+        },
+        {
+          "item_name": "Seafood musroom",
+          "price": null
+        },
+        {
+          "item_name": "Shallot whole",
+          "price": null
+        },
+        {
+          "item_name": "Snow peas 15pc/order",
+          "price": null
+        },
+        {
+          "item_name": "Thai garlic",
+          "price": null
+        },
+        {
+          "item_name": "Tomato roma",
+          "price": null
+        },
+        {
+          "item_name": "Tofu whole",
+          "price": null
+        },
+        {
+          "item_name": "White button mushroom",
+          "price": null
+        },
+        {
+          "item_name": "White onion",
+          "price": null
+        },
+        {
+          "item_name": "Spring roll",
+          "price": null
+        },
+        {
+          "item_name": "Baby gailan/Chinese broccoli",
+          "price": null
+        },
+        {
+          "item_name": "Bamboo shoot plain 2800g/40 order",
+          "price": null
+        },
+        {
+          "item_name": "Cabbage shredded2",
+          "price": null
+        },
+        {
+          "item_name": "Carrot shredded",
+          "price": null
+        },
+        {
+          "item_name": "Chayote sliced",
+          "price": null
+        },
+        {
+          "item_name": "Fresh noodles",
+          "price": null
+        },
+        {
+          "item_name": "Holy Basil",
+          "price": null
+        },
+        {
+          "item_name": "Kabocha squash diced",
+          "price": null
+        },
+        {
+          "item_name": "Lemongrass thinly sliced",
+          "price": null
+        },
+        {
+          "item_name": "Lime juice",
+          "price": null
+        },
+        {
+          "item_name": "Summer salad set",
+          "price": null
+        },
+        {
+          "item_name": "Stir fry set",
+          "price": null
+        },
+        {
+          "item_name": "Thai basil whole",
+          "price": null
+        },
+        {
+          "item_name": "Wild ginger thinly sliced",
+          "price": null
+        },
+        {
+          "item_name": "Fried Shallots (fried red onion)",
+          "price": null
+        },
+        {
+          "item_name": "Green pepercorn brine",
+          "price": null
+        },
+        {
+          "item_name": "Dried Chilli flakes / powder",
+          "price": null
+        },
+        {
+          "item_name": "Dried Thai chilli whole",
+          "price": null
+        },
+        {
+          "item_name": "Fish sauce Mega chef",
+          "price": null
+        },
+        {
+          "item_name": "Mushroom powder 32 oz",
+          "price": null
+        },
+        {
+          "item_name": "Oyster sauce Makrua",
+          "price": null
+        },
+        {
+          "item_name": "Soy sauce Maggi seasoning",
+          "price": null
+        },
+        {
+          "item_name": "Soy sauce Datu puti",
+          "price": null
+        },
+        {
+          "item_name": "Salt",
+          "price": null
+        },
+        {
+          "item_name": "Sugar 32 oz",
+          "price": null
+        },
+        {
+          "item_name": "Vinegar Datu puti",
+          "price": null
+        },
+        {
+          "item_name": "Ground white peper",
+          "price": null
+        }
+      ]
+    },
+    {
+      "category_name": "BMBVT",
+      "item_count": 41,
+      "items": [
+        {
+          "item_name": "Ampawa Coconut milk",
+          "price": 39
+        },
+        {
+          "item_name": "Canola oil",
+          "price": 31
+        },
+        {
+          "item_name": "Royal ox white rice 5lb/10 packs",
+          "price": 49
+        },
+        {
+          "item_name": "400 g. (holy basil)",
+          "price": 18.47
+        },
+        {
+          "item_name": "400 g bag (pgp)",
+          "price": 22.59
+        },
+        {
+          "item_name": "DD50 Draft  per case /bag 20lb",
+          "price": 65.38
+        },
+        {
+          "item_name": "14 lbs Kraft bag",
+          "price": 91.97
+        },
+        {
+          "item_name": "12 oz Round kraft container 400 ml.",
+          "price": null
+        },
+        {
+          "item_name": "12 oz Round kraft lid 400 ml.",
+          "price": null
+        },
+        {
+          "item_name": "36 oz Round kraft container 1,200ml.",
+          "price": null
+        },
+        {
+          "item_name": "36 oz Round kraft lid 1,200ml.",
+          "price": null
+        },
+        {
+          "item_name": "38 oz Round kraft container 1,300ml.",
+          "price": null
+        },
+        {
+          "item_name": "38 oz Round kraft lid 1,300ml.",
+          "price": null
+        },
+        {
+          "item_name": "Reclosable 6x6",
+          "price": null
+        },
+        {
+          "item_name": "Convenient roll",
+          "price": 26.25
+        },
+        {
+          "item_name": "Cling wrap",
+          "price": null
+        },
+        {
+          "item_name": "Evaporated milk",
+          "price": 95.5
+        },
+        {
+          "item_name": "#1 kraft box",
+          "price": null
+        },
+        {
+          "item_name": "Oh ricey noddles",
+          "price": null
+        },
+        {
+          "item_name": "Dishwashing liquid",
+          "price": null
+        },
+        {
+          "item_name": "35x50 clear gargage extra strong",
+          "price": null
+        },
+        {
+          "item_name": "35x50 black gargage extra strong",
+          "price": null
+        },
+        {
+          "item_name": "Hand soap",
+          "price": null
+        },
+        {
+          "item_name": "1 oz cup container",
+          "price": null
+        },
+        {
+          "item_name": "1 oz cup lid",
+          "price": null
+        },
+        {
+          "item_name": "2 oz cup container",
+          "price": null
+        },
+        {
+          "item_name": "2 oz cup lid",
+          "price": null
+        },
+        {
+          "item_name": "4 oz cup container",
+          "price": null
+        },
+        {
+          "item_name": "4 oz cup lid",
+          "price": null
+        },
+        {
+          "item_name": "Hard lid H8",
+          "price": null
+        },
+        {
+          "item_name": "12 oz Hard deli",
+          "price": null
+        },
+        {
+          "item_name": "16 oz Hard deli",
+          "price": null
+        },
+        {
+          "item_name": "20 oz Hard deli",
+          "price": null
+        },
+        {
+          "item_name": "24 oz Hard deli",
+          "price": null
+        },
+        {
+          "item_name": "32 oz Hard deli",
+          "price": null
+        },
+        {
+          "item_name": "Soft lid",
+          "price": null
+        },
+        {
+          "item_name": "12 oz soft deli",
+          "price": null
+        },
+        {
+          "item_name": "16 oz soft deli",
+          "price": null
+        },
+        {
+          "item_name": "24 oz soft deli",
+          "price": null
+        },
+        {
+          "item_name": "Plastic spoon",
+          "price": null
+        },
+        {
+          "item_name": "Plastic fork",
+          "price": null
+        }
+      ]
+    }
+  ]
+}
